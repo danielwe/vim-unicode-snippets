@@ -1,4 +1,5 @@
 vim-unicode-snippets: type Unicode by snippet expansion of LaTeX keywords
+
 Copyright © 2018 Carlo Baldassi, Daniel Wennberg, and others
 
 Permission is hereby granted, free of charge, to any person obtaining
